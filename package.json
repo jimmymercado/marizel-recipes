@@ -1,7 +1,7 @@
 {
-  "name": "gatsby-starter-hello-world",
+  "name": "Marizel's Recipes",
   "private": true,
-  "description": "A simplified bare-bones starter for Gatsby",
+  "description": "A small app to show Zel's fave Thai food",
   "version": "0.1.0",
   "license": "0BSD",
   "scripts": {

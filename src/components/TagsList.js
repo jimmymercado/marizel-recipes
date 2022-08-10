@@ -8,7 +8,7 @@ const TagsList = ({ recipes = [] }) => {
   //console.log(newTags)
   return (
     <div className="tag-container">
-      <h4>Recipes</h4>
+      <h4>Tags</h4>
       <div className="tags-list">
         {newTags.map((tag, index) => {
           const [text, value] = tag

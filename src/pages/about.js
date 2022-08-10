@@ -42,10 +42,7 @@ const About = ({ data }) => {
               to transform without devaluing our power to deliver. Without
               interfaces, you will lack architectures. Without
               micro-resource-constrained performance, you will lack
-              architectures. The capability to implement wirelessly leads to the
-              awards page of the customer journey. Clicking on this link which
-              refers to B2B Marketing awards shortlist will take you to the
-              capacity to harness without devaluing our power to aggregate.
+              architectures.
             </p>
             <Link to="/contact" className="btn">
               Contact Us
@@ -58,6 +55,8 @@ const About = ({ data }) => {
             className="about-img"
           />
         </section>
+        <br />
+        <br />
         <section className="featured-recipes">
           <h5>Look at this awesomeness!</h5>
           <RecipesList recipes={recipes} />
